@@ -1,0 +1,27 @@
+diff --git a/Machina.FFXIV/Machina.FFXIV.csproj b/Machina.FFXIV/Machina.FFXIV.csproj
+index 7ef6b55..759f2b3 100644
+--- a/Machina.FFXIV/Machina.FFXIV.csproj
++++ b/Machina.FFXIV/Machina.FFXIV.csproj
+@@ -1,7 +1,7 @@
+-﻿<Project Sdk="Microsoft.NET.Sdk">
++<Project Sdk="Microsoft.NET.Sdk">
+ 
+     <PropertyGroup>
+-        <TargetFramework>net9.0</TargetFramework>
++        <TargetFramework>net10.0</TargetFramework>
+         <Configurations>Debug;Release;NuGet</Configurations>
+     </PropertyGroup>
+     
+diff --git a/Machina/Machina.csproj b/Machina/Machina.csproj
+index b78716f..08df34a 100644
+--- a/Machina/Machina.csproj
++++ b/Machina/Machina.csproj
+@@ -1,7 +1,7 @@
+ <Project Sdk="Microsoft.NET.Sdk">
+     
+     <PropertyGroup>
+-        <TargetFramework>net9.0</TargetFramework>
++        <TargetFramework>net10.0</TargetFramework>
+         <Configurations>Debug;Release;NuGet</Configurations>
+     </PropertyGroup>
+     

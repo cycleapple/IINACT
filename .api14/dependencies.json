@@ -1,0 +1,8 @@
+[
+  {
+    "path": "machina",
+    "baseCommit": "173e3bffc1a62d00cb5ac5a53a50705bf95485f6",
+    "patch": "patches/40fbedf93949689f.patch",
+    "sha256": "f93a3a96799cbad50ea673a73971404111e42ef022120885949fd005e9025990"
+  }
+]
